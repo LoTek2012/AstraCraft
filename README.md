@@ -1,2 +1,5 @@
 # AstraCraft
-An advanced Minecraft mod about space exploration that adds randomly generated planets and many new gameplay features
+
+**[CURRENTLY IN DEVELOPMENT]**
+
+An advanced minecraft space exploration mod powered by a fully customizable procedural planetary and solar system generation engine
