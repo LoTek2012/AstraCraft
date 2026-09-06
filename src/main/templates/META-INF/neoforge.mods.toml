@@ -8,7 +8,7 @@ modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 updateJSONURL="https://raw.githubusercontent.com/LoTek2012/AstraCraft/refs/heads/main/updates.json"
-displayURL="https://github.com/LoTek2012/AstraLib"
+displayURL="https://github.com/LoTek2012/AstraCraft"
 authors="Loan"
 description='''
 An advanced minecraft space exploration mod powered by a fully customizable procedural planetary and solar system generation engine
@@ -29,6 +29,6 @@ An advanced minecraft space exploration mod powered by a fully customizable proc
 [[dependencies.${mod_id}]]
     modId="astralib"
     type="required"
-    versionRange="1.0.0"
-    ordering="NONE"
+    versionRange="[1.0.0]"
+    ordering="AFTER"
     side="BOTH"
