@@ -1,0 +1,13 @@
+{
+  "itemGroup.astracraft": "Example Mod Tab",
+  "block.astracraft.example_block": "Example Block",
+  "item.astracraft.example_item": "Example Item",
+
+  "astracraft.configuration.title": "AstraCraft Configs",
+  "astracraft.configuration.section.astracraft.common.toml": "AstraCraft Configs",
+  "astracraft.configuration.section.astracraft.common.toml.title": "AstraCraft Configs",
+  "astracraft.configuration.items": "Item List",
+  "astracraft.configuration.logDirtBlock": "Log Dirt Block",
+  "astracraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "astracraft.configuration.magicNumber": "Magic Number"
+}
