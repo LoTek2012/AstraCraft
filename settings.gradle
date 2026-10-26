@@ -7,3 +7,10 @@ pluginManagement {
 plugins {
     id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
 }
+
+// Indique à Gradle d'inclure le mod AstraLib (situé dans le dossier juste à coté)
+includeBuild('../AstraLib') {
+    dependencySubstitution {
+        substitute module('io.github.lotek2012:astralib') using project(':')
+    }
+}
